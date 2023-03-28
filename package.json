@@ -1,0 +1,11 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
